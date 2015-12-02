@@ -1,0 +1,182 @@
+/* CSS Document */
+
+#glavni {
+	margin-top: 0px;
+	width: 960px;
+	background-image: url(../images/56455497.jpg);
+	height: 500px;
+}
+.wrapper {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.desna-strana {
+	float: right; 
+	width: 300px;
+	text-align: center;
+	
+}
+#art_bs img {
+	position: relative;
+	left: 35px;
+}
+#bodybs #div_bs .desna-strana article img {
+	padding-top: 25px;
+	padding-bottom: 24px;
+}
+
+
+.leva-strana {
+	float: left;
+	width: 588px;
+	height:100%;
+	background-color: #D6D6D6;
+	text-align: justify;
+	display: inherit;
+	padding: 30px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #408080;
+	border-right-color: #408080;
+	border-bottom-color: #408080;
+	border-left-color: #408080;
+}
+footer {
+	
+	clear:both;
+	height: 250px;
+	width: 960px;
+	text-align: center;
+}
+article {
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+	
+	
+	
+#bodybs {
+	background-image: url(../images/hrast.jpg);
+	background-repeat: repeat;
+}
+#bodynast {
+	background-image: url(../images/stena1.jpg);
+	background-repeat: repeat;
+}
+#art_nast p {
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+
+
+#bodyruda {
+	background-image: url(../images/stena2.jpg);
+	background-repeat: repeat;
+}
+h2 {
+	position: relative;
+	left: 190px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+#aside_nast {
+	height: 773px;
+}
+
+
+#foot_nast {
+	background-image: url(../images/stena2.jpg);
+	background-repeat: repeat;
+}
+.desna-strana {
+	background-color: #AED2BD;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #408080;
+	border-right-color: #408080;
+	border-bottom-color: #408080;
+	border-left-color: #408080;
+	height:100%;	
+}
+
+.footer {
+	position: relative;
+	color: #000;
+	background-image: url(../images/stena2.jpg);
+	background-repeat: repeat;
+}
+ .foot {
+	
+	position: absolute;
+	top: 50px;
+	right: 350px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+#art_nast {
+	background-color: #D6D6D6;
+	text-align: justify;
+	display: inherit;
+	padding: 30px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #408080;
+	border-right-color: #408080;
+	border-bottom-color: #408080;
+	border-left-color: #408080;
+}
+#bodyruda {
+	background-image: url(../images/stena4.jpg);
+}
+#bodyzs #div_zs #art_zs img {
+	margin-right: 110px;
+	margin-left: 110px;
+}
+#bodyzs #div_zs .desna-strana article img {
+	margin-top: 110px;
+	margin-bottom: 111px;
+}
+ #over {
+	overflow: hidden;
+	background-color:#408080;
+}
+
+	
+
+#bodyspom #div_spom #over #art_spom #h2spomen {
+	position: relative;
+	left: 130px;
+}
+
+
+#bodyspom #div_spom #over #art_spom img {
+	
+	margin-left:30px;
+}
+#bodyspom #div_spom #over #art_spom p #img_big {
+	margin-left: 10px;
+}
+#bodyspom #div_spom #over .desna-strana article img {
+	margin-top: 64px;
+	margin-bottom:65px;
+}
+#bodytor #div_tor #over #art_tor img {
+	margin-left: 40px;
+}
+#bodytor #div_tor #over .desna-strana article #ptower {
+	margin-top: 150px;
+	margin-bottom: 304px;
+}
+
+#bodyhistory #div_hst #over #art_hst #zrnov {
+	padding: 20px;
+	float: left;
+	text-align: center;
+}

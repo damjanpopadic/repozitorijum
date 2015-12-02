@@ -1,0 +1,46 @@
+@charset "utf-8";
+#bodycont #div_cont #over #art_cont #forma1 .fieldset {
+	border-top-color: #408080;
+	border-right-color: #408080;
+	border-bottom-color: #408080;
+	border-left-color: #408080;
+}
+#bodycont #div_cont #over #art_cont #forma1 {
+	width: 85%;
+}
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #opstina {
+	height: 23px;
+	width: 173px;
+}
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #pitanja {
+	height: 70px;
+	width: 90%;
+}
+
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #dugme1 {
+	background-color: #408080;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	display:block;
+	float:right;
+	margin:20px;
+	cursor:pointer;
+}
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #dugme {
+	background-color: #408080;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	display:block;
+	float:right;
+	margin:20px;
+	cursor:pointer;
+}
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #dugme:hover {	
+	background:	#AED2BD;
+}
+#bodycont #div_cont #over #art_cont #forma1 .fieldset .p_tag_form #dugme1:hover {	
+	background:	#AED2BD;
+}
+
